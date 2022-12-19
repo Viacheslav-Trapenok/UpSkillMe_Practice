@@ -1,6 +1,6 @@
 //Create a car object, add a color property to it with the value equals 'black'
 
-/*let car = {};
+let car = {};
 car.color = 'black';
 
 //Change the color property of the car object to 'green'
@@ -41,7 +41,7 @@ EnterYourName ('Viacheslav');
 function type_of (argument) {
     console.log ('Type of argument ' + argument +  ' is ' + typeof argument);
 }
-type_of (true);*/
+type_of (true);
 
 //Write a function that determines whether a number is prime or not
 
@@ -65,4 +65,4 @@ function Prime_number (x) {
         console.log ('Please enter a positive number');
     }
 }
-Prime_number (2);
+Prime_number (27644437);
